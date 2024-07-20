@@ -5,7 +5,11 @@
             padding: 0;
             margin: 0;
         }
+<<<<<<< HEAD
 		//testing code 
+=======
+		//testing from ocky branch, merge conflict expected
+>>>>>>> ocky
         @font-face{
             font-family: "Segoe UI";
             src: url('../fonts/segoeuil.ttf');
